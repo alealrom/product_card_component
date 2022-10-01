@@ -25,8 +25,8 @@ The challenge was to build out QR Code Component and get it looking as close to 
 
 ### Links
 
-- Solution URL: [https://github.com/alealrom/qrcode](https://github.com/alealrom/product_card_component)
-- Live Site URL: [https://alealrom.github.io/qrcode/](https://alealrom.github.io/qrcode/)
+- Solution URL: [https://github.com/alealrom/product_card_component](https://github.com/alealrom/product_card_component)
+- Live Site URL: [https://alealrom.github.io/product_card_component/](https://alealrom.github.io/product_card_component/)
 
 ## My Porcess
 
