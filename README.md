@@ -16,7 +16,7 @@ With Frontend Mentor I want better my improve your coding skills by building rea
 
 ## Overview
 
-The challenge was to build out QR Code Component and get it looking as close to the design as possible.
+The challenge was to build out Product Card Component and get it looking as close to the design as possible.
 
 ### Screenshot
 
