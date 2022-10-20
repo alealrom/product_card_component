@@ -1,4 +1,4 @@
-# Frontend Mentor - Product Card Solution
+# alealrom - Product Card Solution
 
 This is a solution to Product Card challenge on Frontend Mentor.
 
